@@ -13,8 +13,6 @@ n_actus: 2
 <!--
 ![Actions reseau](../assets/images/banniere_web.png){: style="width: 50%; display:block; margin-right: auto; margin-left:auto;" }
 -->
-Le Réseau Français de la Recherche Reproductible est une initiative nationale informelle rassemblant des scientifiques engagés dans l’étude des facteurs favorisant la reproductibilité de la recherche. Bien que les enjeux de la reproductibilité varient selon les disciplines, ils concernent l’ensemble des domaines scientifiques. Le réseau s’attache ainsi à représenter une diversité disciplinaire riche et équilibrée.
-[Plus d'information dans ce document !](assets/pdfs/presentation.pdf)
 
 ## News !
 
@@ -109,42 +107,45 @@ La prochaine newsletter est en préparation, n'hésitez pas à nous faire part d
 
 
 <br>
+# Le réseau
+
+Le Réseau Français de la Recherche Reproductible est une initiative nationale informelle rassemblant des scientifiques engagés dans l’étude des facteurs favorisant la reproductibilité de la recherche. Bien que les enjeux de la reproductibilité varient selon les disciplines, ils concernent l’ensemble des domaines scientifiques. Le réseau s’attache ainsi à représenter une diversité disciplinaire riche et équilibrée. 
+[Plus d'information dans ce document !](assets/pdfs/presentation.pdf)
 
 
 ## Objectifs du réseau
+L’objectif du réseau est de contribuer à modifier les pratiques de recherche pour les rendre plus reproductibles, plus robustes et plus transparentes. 
+
+  <p>Il s’agit donc :</p>
+  <ul>
+    <li>Créer une communauté multidisciplinaire engagée à promouvoir la reproductibilité des recherches scientifiques ;</li>
+    <li>Identifier les défis pour la reproductibilité des résultats de recherche et définir des actions concrètes pour améliorer cette situation dans différentes disciplines, notamment la mise en place et la diffusion de bonnes pratiques, la formation, et l'acculturation des chercheur·euse·s ;</li>
+    <li>Étendre cette dynamique à l'échelle institutionnelle, nationale et internationale, tout en établissant des connexions avec les initiatives liées à la science ouverte et à l'intégrité scientifique.</li>
+  </ul>
+
 
 ![Objectifs réseau](../assets/images/objectifs_recherche-repro-fr.png){: style="width: 55%; display:block; margin-right: auto; margin-left:auto;" }
-
-Le réseau compte environ 260 membres inscrits à sa liste de diffusion, l’abonnement à celle-ci constituant actuellement le principal critère d’adhésion. Les membres occupent des fonctions variées et sont issus de nombreuses institutions réparties à travers le territoire français. Ainsi, au moins 30 disciplines différentes sont représentées. Cette diversité est un élément fondamental du réseau qui vise à promouvoir l'échange de bonnes pratiques et créer des discussions autour de procédures communes dans des disciplines différentes (voir la page [Membres](/community/) pour plus de détails).
 
 ## Actions en cours
 
 ![Actions reseau](../assets/images/activites_recherche-repro.png){: style="width: 60%; display:block; margin-right: auto; margin-left:auto;" }
 
-## Structure
+## Comment contribuer ?
 
-Pour atteindre ces objectifs, le réseau s'est doté d'une [structure](/steering/) avec 3 types de composantes : un copil qui définit les axes prioritaires et coordonne les différentes actions, des collèges transverses ([animation](/colleges/c_anim), [relations européennes](/colleges/c_europe), relations institutionnelles) et enfin des groupes de travail sur des sujets spécifiques ([formation](/gtravail/gt_formation), [notebooks](https://gt-notebook.gitpages.huma-num.fr/site_quarto/), [développement logiciel](/gtravail/gt_logiciel)).
+La reproductibilité est un sujet qui vous intéresse ? 
 
+<p> Vous pouvez : </p>
+<ul>
+    <li>vous abonner à <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">la liste de diffusion</a> pour être informé </li>
+    <li>diffuser des informations dans vos réseaux professionnels : relayer les mails, mettre une affiche, … </li>
+    <li>animer une sensibilisation dans votre laboratoire ou mettre en place un ReproducibiliTea </li>
+    <li>proposer une sensibilisation aux doctorants de votre école doctorale </li>
+    <li>rédiger une fiche de bonnes pratiques spécifiques à votre discipline </li>
+    <li>participer à <a href="https://www.recherche-reproductible.fr/steering/" target="_blank"> un groupe de travail ou un collège</a>></li>
+    <li> proposer un nouveau groupe de travail</li>
+ </ul>
 
-## Activités
-
-### Journées annuelles
-
-  * [Journées 2023](/rr-days/), Paris
-  * [Journées 2024](/rr-days-2024/), Grenoble
-  * [Journées 2025](https://jrfrr-2025.sciencesconf.org/), Lyon
-
-### Wébinaires
-
-Le collège "Animation" organise des wébinaires réguliers sur des thèmes variés autour de la recherche reproductible. Vous pouvez retrouver la liste des wébinaires sur la [page du collège animation](/colleges/c_anim).
-
-
-### Implication au niveau européen
-* Participation au groupe de travail sur la pérennisation de la Fédération Globale de Réseaux de Reproductibilité
-* Organisation de webinaires consacré aux réseaux européens
-* Implication dans le projet TRUSTparency
-* Représentation du réseau dans des événements internationaux
-
+N’hésitez pas à nous rejoindre !
 
 <br/>
 <a href="https://groupes.renater.fr/sympa/info/recherche-reproductible" target="_blank">![Actions reseau](../assets/images/Contacts.png){: style="width: 65%; display:block; margin-right: auto; margin-left:auto;" }</a>
